@@ -1,5 +1,5 @@
 # E-Commerce-Analysis
-##Introduction:
+## Introduction:
 Target Sales Company manages a vast dataset containing detailed information on Sales, orders, customers, products, regions and delivery analysis. The project focuses on extracting meaningful insights from this data to support strategic decision making. Using advanced SQL queries for extraction and visualization tools like Power BI, key business questions were addressed, trends were identified, and actionable insights were presented effectively to enhance decision making processes.
 
 --Dataset used :
@@ -7,7 +7,7 @@ https://github.com/pranotimalgunkar/E-Commerce-Analysis/tree/main/Datasets
 
 
 
-##Findings and Insights
+## Findings and Insights
 1.	Revenue Trends:
 Total revenue: $13.22M, consistent growth in revenue over time.
 With an Average Order Value (AOV) of $137.04, AOV reflects healthy spending behaviour.
@@ -29,7 +29,7 @@ Products with both high ratings and a high number of reviews show significantly 
 High ratings alone do not guarantee strong sales if the review count is low.
 This suggests that review volume builds trust and acts as a key factor in influencing purchase decisions
 
-##Conclusion:
+## Conclusion:
 1.Revenue is strong and consistent growth in revenue over time.
 2.Customer loyalty and product reviews are key drivers of performance.
 3.Run targeted campaigns for top customers, also focus on one time buyer we can offer them some discount and coupons so that they can buy frequently, easily convert them into loyal customers.
