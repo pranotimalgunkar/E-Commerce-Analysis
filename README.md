@@ -2,7 +2,9 @@
 ##Introduction:
 Target Sales Company manages a vast dataset containing detailed information on Sales, orders, customers, products, regions and delivery analysis. The project focuses on extracting meaningful insights from this data to support strategic decision making. Using advanced SQL queries for extraction and visualization tools like Power BI, key business questions were addressed, trends were identified, and actionable insights were presented effectively to enhance decision making processes.
 
---Dataset used : 
+--Dataset used :
+https://github.com/pranotimalgunkar/E-Commerce-Analysis/tree/main/Datasets
+
 
 
 Findings and Insights
